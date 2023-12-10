@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>кунгфупанда</title>
+	<atom:link href="http://panda.da/?feed=rss2" rel="self" type="application/rss+xml" />
+	<link>http://panda.da</link>
+	<description>Ещё один сайт на WordPress</description>
+	<lastBuildDate>Sat, 29 Apr 2023 07:04:01 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+	<item>
+		<title>Neq</title>
+		<link>http://panda.da/?p=13</link>
+					<comments>http://panda.da/?p=13#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 29 Apr 2023 07:04:01 +0000</pubDate>
+				<category><![CDATA[Без рубрики]]></category>
+		<guid isPermaLink="false">http://panda.da/?p=13</guid>
+
+					<description><![CDATA[Neq]]></description>
+										<content:encoded><![CDATA[
+<p>Neq</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://panda.da/?feed=rss2&#038;p=13</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New post</title>
+		<link>http://panda.da/?p=11</link>
+					<comments>http://panda.da/?p=11#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 29 Apr 2023 07:02:03 +0000</pubDate>
+				<category><![CDATA[Без рубрики]]></category>
+		<guid isPermaLink="false">http://panda.da/?p=11</guid>
+
+					<description><![CDATA[In world]]></description>
+										<content:encoded><![CDATA[
+<p>In world</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://panda.da/?feed=rss2&#038;p=11</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Привет, мир!</title>
+		<link>http://panda.da/?p=1</link>
+					<comments>http://panda.da/?p=1#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 07 Nov 2022 20:04:59 +0000</pubDate>
+				<category><![CDATA[Без рубрики]]></category>
+		<guid isPermaLink="false">http://localhost:8085/?p=1</guid>
+
+					<description><![CDATA[Ща всеку!]]></description>
+										<content:encoded><![CDATA[
+<p>Ща всеку!</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="420" height="280" src="http://localhost:8085/wp-content/uploads/2022/11/изображение.png" alt="" class="wp-image-6" srcset="https://panda.da/wp-content/uploads/2022/11/изображение.png 420w, https://panda.da/wp-content/uploads/2022/11/изображение-300x200.png 300w" sizes="(max-width: 420px) 100vw, 420px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://panda.da/?feed=rss2&#038;p=1</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
